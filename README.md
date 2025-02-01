@@ -14,9 +14,9 @@ Provide users with the option to download the video in the best quality availabl
 Prompt the user for input (video URL and whether they want to download the video).
 
 ### Library:
-#### * pytube: 
+#### *pytube: 
 A Python library used to extract metadata from YouTube videos (title, views, duration, etc.).
-#### * yt-dlp: 
+#### *yt-dlp: 
 A command-line tool and Python library used to download videos from YouTube and other video-sharing sites, providing support for various formats and resolutions.
 
 ### Summary:
