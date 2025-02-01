@@ -1,16 +1,16 @@
 
-## Title: YouTube Video Metadata Extraction and Downloader
+# Title: YouTube Video Metadata Extraction and Downloader
 
 
 ### Description:
 This project extracts metadata from YouTube videos, including the title, views, duration, and ratings, using the pytube library. It then provides the option to download the video in the best available format using the yt-dlp library. This allows users to easily retrieve information about a video and save it locally if desired.
 
 ### Responsibilities:
-#### 1.Extract Metadata:
+#### 1. Extract Metadata:
 Retrieve video information such as title, views, duration, and ratings using pytube.
-#### 2.Download Video: 
+#### 2. Download Video: 
 Provide users with the option to download the video in the best quality available via yt-dlp.
-#### 3.User Interaction: 
+#### 3. User Interaction: 
 Prompt the user for input (video URL and whether they want to download the video).
 
 ### Library:
